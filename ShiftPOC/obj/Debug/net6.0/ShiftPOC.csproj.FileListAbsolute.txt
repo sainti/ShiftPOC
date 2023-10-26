@@ -1,0 +1,14 @@
+C:\code\ShiftPOC\ShiftPOC\bin\Debug\net6.0\ShiftPOC.exe
+C:\code\ShiftPOC\ShiftPOC\bin\Debug\net6.0\ShiftPOC.deps.json
+C:\code\ShiftPOC\ShiftPOC\bin\Debug\net6.0\ShiftPOC.runtimeconfig.json
+C:\code\ShiftPOC\ShiftPOC\bin\Debug\net6.0\ShiftPOC.dll
+C:\code\ShiftPOC\ShiftPOC\bin\Debug\net6.0\ShiftPOC.pdb
+C:\code\ShiftPOC\ShiftPOC\obj\Debug\net6.0\ShiftPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\ShiftPOC\ShiftPOC\obj\Debug\net6.0\ShiftPOC.AssemblyInfoInputs.cache
+C:\code\ShiftPOC\ShiftPOC\obj\Debug\net6.0\ShiftPOC.AssemblyInfo.cs
+C:\code\ShiftPOC\ShiftPOC\obj\Debug\net6.0\ShiftPOC.csproj.CoreCompileInputs.cache
+C:\code\ShiftPOC\ShiftPOC\obj\Debug\net6.0\ShiftPOC.dll
+C:\code\ShiftPOC\ShiftPOC\obj\Debug\net6.0\refint\ShiftPOC.dll
+C:\code\ShiftPOC\ShiftPOC\obj\Debug\net6.0\ShiftPOC.pdb
+C:\code\ShiftPOC\ShiftPOC\obj\Debug\net6.0\ShiftPOC.genruntimeconfig.cache
+C:\code\ShiftPOC\ShiftPOC\obj\Debug\net6.0\ref\ShiftPOC.dll
